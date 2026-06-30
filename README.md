@@ -1,11 +1,11 @@
-# 💃 PlesniStudio — Dance Studio Management System
+# PlesniStudio — Dance Studio Management System
 
 > **Academic Project** · University of Belgrade, Faculty of Organizational Sciences  
 > Course: *Data Repository Programming* · Academic Year 2025/2026
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [System Architecture](#system-architecture)
