@@ -1,0 +1,6 @@
+@PlesniStudio.Api_HostAddress = http://localhost:5180
+
+GET {{PlesniStudio.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

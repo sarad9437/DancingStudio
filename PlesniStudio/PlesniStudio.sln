@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBB", "DBB\DBB.csproj", "{B767702A-29AD-496F-BA02-B50D258C53E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domen", "Domen\Domen.csproj", "{57E7768B-9D6B-42DE-BB7A-2C5A8B27F909}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlesniStudio.Api", "PlesniStudio.Api\PlesniStudio.Api.csproj", "{D2D1DC73-F62B-4551-A080-C061C70990EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B767702A-29AD-496F-BA02-B50D258C53E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B767702A-29AD-496F-BA02-B50D258C53E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B767702A-29AD-496F-BA02-B50D258C53E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B767702A-29AD-496F-BA02-B50D258C53E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57E7768B-9D6B-42DE-BB7A-2C5A8B27F909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57E7768B-9D6B-42DE-BB7A-2C5A8B27F909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57E7768B-9D6B-42DE-BB7A-2C5A8B27F909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57E7768B-9D6B-42DE-BB7A-2C5A8B27F909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2D1DC73-F62B-4551-A080-C061C70990EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2D1DC73-F62B-4551-A080-C061C70990EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2D1DC73-F62B-4551-A080-C061C70990EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2D1DC73-F62B-4551-A080-C061C70990EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39C43C9B-6BB4-4180-85AF-E6F3D13C68FF}
+	EndGlobalSection
+EndGlobal

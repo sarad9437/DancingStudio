@@ -1,0 +1,405 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D1DC73-F62B-4551-A080-C061C70990EC}|PlesniStudio.Api\\PlesniStudio.Api.csproj|c:\\users\\sara\\desktop\\plesnistudiosve\\prpplesnistudio\\plesnistudio\\plesnistudio.api\\controllers\\grupecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D1DC73-F62B-4551-A080-C061C70990EC}|PlesniStudio.Api\\PlesniStudio.Api.csproj|solutionrelative:plesnistudio.api\\controllers\\grupecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D1DC73-F62B-4551-A080-C061C70990EC}|PlesniStudio.Api\\PlesniStudio.Api.csproj|c:\\users\\sara\\desktop\\plesnistudiosve\\prpplesnistudio\\plesnistudio\\plesnistudio.api\\controllers\\ucenicicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D1DC73-F62B-4551-A080-C061C70990EC}|PlesniStudio.Api\\PlesniStudio.Api.csproj|solutionrelative:plesnistudio.api\\controllers\\ucenicicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D1DC73-F62B-4551-A080-C061C70990EC}|PlesniStudio.Api\\PlesniStudio.Api.csproj|c:\\users\\sara\\desktop\\plesnistudiosve\\prpplesnistudio\\plesnistudio\\plesnistudio.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D1DC73-F62B-4551-A080-C061C70990EC}|PlesniStudio.Api\\PlesniStudio.Api.csproj|solutionrelative:plesnistudio.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E7768B-9D6B-42DE-BB7A-2C5A8B27F909}|Domen\\Domen.csproj|c:\\users\\sara\\desktop\\plesnistudiosve\\prpplesnistudio\\plesnistudio\\domen\\zaduzenje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E7768B-9D6B-42DE-BB7A-2C5A8B27F909}|Domen\\Domen.csproj|solutionrelative:domen\\zaduzenje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E7768B-9D6B-42DE-BB7A-2C5A8B27F909}|Domen\\Domen.csproj|c:\\users\\sara\\desktop\\plesnistudiosve\\prpplesnistudio\\plesnistudio\\domen\\ucenik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E7768B-9D6B-42DE-BB7A-2C5A8B27F909}|Domen\\Domen.csproj|solutionrelative:domen\\ucenik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E7768B-9D6B-42DE-BB7A-2C5A8B27F909}|Domen\\Domen.csproj|c:\\users\\sara\\desktop\\plesnistudiosve\\prpplesnistudio\\plesnistudio\\domen\\osoba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E7768B-9D6B-42DE-BB7A-2C5A8B27F909}|Domen\\Domen.csproj|solutionrelative:domen\\osoba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E7768B-9D6B-42DE-BB7A-2C5A8B27F909}|Domen\\Domen.csproj|c:\\users\\sara\\desktop\\plesnistudiosve\\prpplesnistudio\\plesnistudio\\domen\\nastup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E7768B-9D6B-42DE-BB7A-2C5A8B27F909}|Domen\\Domen.csproj|solutionrelative:domen\\nastup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E7768B-9D6B-42DE-BB7A-2C5A8B27F909}|Domen\\Domen.csproj|c:\\users\\sara\\desktop\\plesnistudiosve\\prpplesnistudio\\plesnistudio\\domen\\kurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E7768B-9D6B-42DE-BB7A-2C5A8B27F909}|Domen\\Domen.csproj|solutionrelative:domen\\kurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E7768B-9D6B-42DE-BB7A-2C5A8B27F909}|Domen\\Domen.csproj|c:\\users\\sara\\desktop\\plesnistudiosve\\prpplesnistudio\\plesnistudio\\domen\\kostim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E7768B-9D6B-42DE-BB7A-2C5A8B27F909}|Domen\\Domen.csproj|solutionrelative:domen\\kostim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E7768B-9D6B-42DE-BB7A-2C5A8B27F909}|Domen\\Domen.csproj|c:\\users\\sara\\desktop\\plesnistudiosve\\prpplesnistudio\\plesnistudio\\domen\\korisnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E7768B-9D6B-42DE-BB7A-2C5A8B27F909}|Domen\\Domen.csproj|solutionrelative:domen\\korisnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E7768B-9D6B-42DE-BB7A-2C5A8B27F909}|Domen\\Domen.csproj|c:\\users\\sara\\desktop\\plesnistudiosve\\prpplesnistudio\\plesnistudio\\domen\\instruktor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E7768B-9D6B-42DE-BB7A-2C5A8B27F909}|Domen\\Domen.csproj|solutionrelative:domen\\instruktor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E7768B-9D6B-42DE-BB7A-2C5A8B27F909}|Domen\\Domen.csproj|c:\\users\\sara\\desktop\\plesnistudiosve\\prpplesnistudio\\plesnistudio\\domen\\grupa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E7768B-9D6B-42DE-BB7A-2C5A8B27F909}|Domen\\Domen.csproj|solutionrelative:domen\\grupa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B767702A-29AD-496F-BA02-B50D258C53E9}|DBB\\DBB.csproj|c:\\users\\sara\\desktop\\plesnistudiosve\\prpplesnistudio\\plesnistudio\\dbb\\broker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B767702A-29AD-496F-BA02-B50D258C53E9}|DBB\\DBB.csproj|solutionrelative:dbb\\broker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D1DC73-F62B-4551-A080-C061C70990EC}|PlesniStudio.Api\\PlesniStudio.Api.csproj|c:\\users\\sara\\desktop\\plesnistudiosve\\prpplesnistudio\\plesnistudio\\plesnistudio.api\\controllers\\instruktoricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D1DC73-F62B-4551-A080-C061C70990EC}|PlesniStudio.Api\\PlesniStudio.Api.csproj|solutionrelative:plesnistudio.api\\controllers\\instruktoricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D1DC73-F62B-4551-A080-C061C70990EC}|PlesniStudio.Api\\PlesniStudio.Api.csproj|c:\\users\\sara\\desktop\\plesnistudiosve\\prpplesnistudio\\plesnistudio\\plesnistudio.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D1DC73-F62B-4551-A080-C061C70990EC}|PlesniStudio.Api\\PlesniStudio.Api.csproj|solutionrelative:plesnistudio.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D1DC73-F62B-4551-A080-C061C70990EC}|PlesniStudio.Api\\PlesniStudio.Api.csproj|c:\\users\\sara\\desktop\\plesnistudiosve\\prpplesnistudio\\plesnistudio\\plesnistudio.api\\controllers\\nastupicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D1DC73-F62B-4551-A080-C061C70990EC}|PlesniStudio.Api\\PlesniStudio.Api.csproj|solutionrelative:plesnistudio.api\\controllers\\nastupicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D1DC73-F62B-4551-A080-C061C70990EC}|PlesniStudio.Api\\PlesniStudio.Api.csproj|c:\\users\\sara\\desktop\\plesnistudiosve\\prpplesnistudio\\plesnistudio\\plesnistudio.api\\controllers\\kursevicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D1DC73-F62B-4551-A080-C061C70990EC}|PlesniStudio.Api\\PlesniStudio.Api.csproj|solutionrelative:plesnistudio.api\\controllers\\kursevicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D1DC73-F62B-4551-A080-C061C70990EC}|PlesniStudio.Api\\PlesniStudio.Api.csproj|c:\\users\\sara\\desktop\\plesnistudiosve\\prpplesnistudio\\plesnistudio\\plesnistudio.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D2D1DC73-F62B-4551-A080-C061C70990EC}|PlesniStudio.Api\\PlesniStudio.Api.csproj|solutionrelative:plesnistudio.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D1DC73-F62B-4551-A080-C061C70990EC}|PlesniStudio.Api\\PlesniStudio.Api.csproj|c:\\users\\sara\\desktop\\plesnistudiosve\\prpplesnistudio\\plesnistudio\\plesnistudio.api\\plesnistudio.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D2D1DC73-F62B-4551-A080-C061C70990EC}|PlesniStudio.Api\\PlesniStudio.Api.csproj|solutionrelative:plesnistudio.api\\plesnistudio.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B767702A-29AD-496F-BA02-B50D258C53E9}|DBB\\DBB.csproj|c:\\users\\sara\\desktop\\plesnistudiosve\\prpplesnistudio\\plesnistudio\\dbb\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B767702A-29AD-496F-BA02-B50D258C53E9}|DBB\\DBB.csproj|solutionrelative:dbb\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D1DC73-F62B-4551-A080-C061C70990EC}|PlesniStudio.Api\\PlesniStudio.Api.csproj|c:\\users\\sara\\desktop\\plesnistudiosve\\prpplesnistudio\\plesnistudio\\plesnistudio.api\\controllers\\zaduzenjacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D1DC73-F62B-4551-A080-C061C70990EC}|PlesniStudio.Api\\PlesniStudio.Api.csproj|solutionrelative:plesnistudio.api\\controllers\\zaduzenjacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D1DC73-F62B-4551-A080-C061C70990EC}|PlesniStudio.Api\\PlesniStudio.Api.csproj|c:\\users\\sara\\desktop\\plesnistudiosve\\prpplesnistudio\\plesnistudio\\plesnistudio.api\\controllers\\kostimicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D1DC73-F62B-4551-A080-C061C70990EC}|PlesniStudio.Api\\PlesniStudio.Api.csproj|solutionrelative:plesnistudio.api\\controllers\\kostimicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D1DC73-F62B-4551-A080-C061C70990EC}|PlesniStudio.Api\\PlesniStudio.Api.csproj|c:\\users\\sara\\desktop\\plesnistudiosve\\prpplesnistudio\\plesnistudio\\plesnistudio.api\\plesnistudio.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D2D1DC73-F62B-4551-A080-C061C70990EC}|PlesniStudio.Api\\PlesniStudio.Api.csproj|solutionrelative:plesnistudio.api\\plesnistudio.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D1DC73-F62B-4551-A080-C061C70990EC}|PlesniStudio.Api\\PlesniStudio.Api.csproj|c:\\users\\sara\\desktop\\plesnistudiosve\\prpplesnistudio\\plesnistudio\\plesnistudio.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D2D1DC73-F62B-4551-A080-C061C70990EC}|PlesniStudio.Api\\PlesniStudio.Api.csproj|solutionrelative:plesnistudio.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Kostim.cs",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\Domen\\Kostim.cs",
+              "RelativeDocumentMoniker": "Domen\\Kostim.cs",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\Domen\\Kostim.cs",
+              "RelativeToolTip": "Domen\\Kostim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T00:17:07.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Kurs.cs",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\Domen\\Kurs.cs",
+              "RelativeDocumentMoniker": "Domen\\Kurs.cs",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\Domen\\Kurs.cs",
+              "RelativeToolTip": "Domen\\Kurs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T00:17:09.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Nastup.cs",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\Domen\\Nastup.cs",
+              "RelativeDocumentMoniker": "Domen\\Nastup.cs",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\Domen\\Nastup.cs",
+              "RelativeToolTip": "Domen\\Nastup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T00:17:11.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Osoba.cs",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\Domen\\Osoba.cs",
+              "RelativeDocumentMoniker": "Domen\\Osoba.cs",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\Domen\\Osoba.cs",
+              "RelativeToolTip": "Domen\\Osoba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T00:17:12.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ucenik.cs",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\Domen\\Ucenik.cs",
+              "RelativeDocumentMoniker": "Domen\\Ucenik.cs",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\Domen\\Ucenik.cs",
+              "RelativeToolTip": "Domen\\Ucenik.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T00:17:14.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Zaduzenje.cs",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\Domen\\Zaduzenje.cs",
+              "RelativeDocumentMoniker": "Domen\\Zaduzenje.cs",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\Domen\\Zaduzenje.cs",
+              "RelativeToolTip": "Domen\\Zaduzenje.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T00:17:16.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\PlesniStudio.Api\\Program.cs",
+              "RelativeDocumentMoniker": "PlesniStudio.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\PlesniStudio.Api\\Program.cs",
+              "RelativeToolTip": "PlesniStudio.Api\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAjwDkAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T17:29:02.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UceniciController.cs",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\PlesniStudio.Api\\Controllers\\UceniciController.cs",
+              "RelativeDocumentMoniker": "PlesniStudio.Api\\Controllers\\UceniciController.cs",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\PlesniStudio.Api\\Controllers\\UceniciController.cs",
+              "RelativeToolTip": "PlesniStudio.Api\\Controllers\\UceniciController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T02:40:51.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GrupeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\PlesniStudio.Api\\Controllers\\GrupeController.cs",
+              "RelativeDocumentMoniker": "PlesniStudio.Api\\Controllers\\GrupeController.cs",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\PlesniStudio.Api\\Controllers\\GrupeController.cs",
+              "RelativeToolTip": "PlesniStudio.Api\\Controllers\\GrupeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T02:40:42.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Korisnik.cs",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\Domen\\Korisnik.cs",
+              "RelativeDocumentMoniker": "Domen\\Korisnik.cs",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\Domen\\Korisnik.cs",
+              "RelativeToolTip": "Domen\\Korisnik.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T01:55:20.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Instruktor.cs",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\Domen\\Instruktor.cs",
+              "RelativeDocumentMoniker": "Domen\\Instruktor.cs",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\Domen\\Instruktor.cs",
+              "RelativeToolTip": "Domen\\Instruktor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T00:17:05.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Grupa.cs",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\Domen\\Grupa.cs",
+              "RelativeDocumentMoniker": "Domen\\Grupa.cs",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\Domen\\Grupa.cs",
+              "RelativeToolTip": "Domen\\Grupa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T00:17:02.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Broker.cs",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\DBB\\Broker.cs",
+              "RelativeDocumentMoniker": "DBB\\Broker.cs",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\DBB\\Broker.cs",
+              "RelativeToolTip": "DBB\\Broker.cs",
+              "ViewState": "AgIAAPYCAAAAAAAAAAAAwBADAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T17:22:54.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NastupiController.cs",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\PlesniStudio.Api\\Controllers\\NastupiController.cs",
+              "RelativeDocumentMoniker": "PlesniStudio.Api\\Controllers\\NastupiController.cs",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\PlesniStudio.Api\\Controllers\\NastupiController.cs",
+              "RelativeToolTip": "PlesniStudio.Api\\Controllers\\NastupiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T02:40:49.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "KurseviController.cs",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\PlesniStudio.Api\\Controllers\\KurseviController.cs",
+              "RelativeDocumentMoniker": "PlesniStudio.Api\\Controllers\\KurseviController.cs",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\PlesniStudio.Api\\Controllers\\KurseviController.cs",
+              "RelativeToolTip": "PlesniStudio.Api\\Controllers\\KurseviController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T02:40:47.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InstruktoriController.cs",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\PlesniStudio.Api\\Controllers\\InstruktoriController.cs",
+              "RelativeDocumentMoniker": "PlesniStudio.Api\\Controllers\\InstruktoriController.cs",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\PlesniStudio.Api\\Controllers\\InstruktoriController.cs",
+              "RelativeToolTip": "PlesniStudio.Api\\Controllers\\InstruktoriController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAiwE4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T02:40:44.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\PlesniStudio.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "PlesniStudio.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\PlesniStudio.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "PlesniStudio.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T02:40:39.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\PlesniStudio.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PlesniStudio.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\PlesniStudio.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PlesniStudio.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-14T17:33:00.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\DBB\\DbConnection.cs",
+              "RelativeDocumentMoniker": "DBB\\DbConnection.cs",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\DBB\\DbConnection.cs",
+              "RelativeToolTip": "DBB\\DbConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T17:23:38.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PlesniStudio.Api.http",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\PlesniStudio.Api\\PlesniStudio.Api.http",
+              "RelativeDocumentMoniker": "PlesniStudio.Api\\PlesniStudio.Api.http",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\PlesniStudio.Api\\PlesniStudio.Api.http",
+              "RelativeToolTip": "PlesniStudio.Api\\PlesniStudio.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-03-14T17:32:32.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "KostimiController.cs",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\PlesniStudio.Api\\Controllers\\KostimiController.cs",
+              "RelativeDocumentMoniker": "PlesniStudio.Api\\Controllers\\KostimiController.cs",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\PlesniStudio.Api\\Controllers\\KostimiController.cs",
+              "RelativeToolTip": "PlesniStudio.Api\\Controllers\\KostimiController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwv04AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T02:40:45.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ZaduzenjaController.cs",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\PlesniStudio.Api\\Controllers\\ZaduzenjaController.cs",
+              "RelativeDocumentMoniker": "PlesniStudio.Api\\Controllers\\ZaduzenjaController.cs",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\PlesniStudio.Api\\Controllers\\ZaduzenjaController.cs",
+              "RelativeToolTip": "PlesniStudio.Api\\Controllers\\ZaduzenjaController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T02:40:53.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PlesniStudio.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\PlesniStudio.Api\\PlesniStudio.Api.csproj",
+              "RelativeDocumentMoniker": "PlesniStudio.Api\\PlesniStudio.Api.csproj",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\PlesniStudio.Api\\PlesniStudio.Api.csproj",
+              "RelativeToolTip": "PlesniStudio.Api\\PlesniStudio.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-15T19:55:36.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\PlesniStudio.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "PlesniStudio.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\PlesniStudioSve\\PRPPlesniStudio\\PlesniStudio\\PlesniStudio.Api\\appsettings.json",
+              "RelativeToolTip": "PlesniStudio.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-14T17:32:46.771Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
